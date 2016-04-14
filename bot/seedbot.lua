@@ -220,7 +220,7 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    "download_media",
+    "sudo_users = {smartbot},–Sudo users,
     "invite",
     "all",
     "leave_ban",
